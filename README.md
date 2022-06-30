@@ -4,7 +4,7 @@ Full information about aim, moving and end of the game you can find in Wikipedia
 
 ### Description
 You can play with two mode: online and with AI
-* For the online game must be loaded the server side
+* For the online game the server side must be loaded
 * Current version of AI is the simple algorithm with random choice of next chess for moving.
 In the next step, the longest route is chosen for this chess
 
